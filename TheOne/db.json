@@ -1,0 +1,71 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "buyNumber": 1,
+    "buyType": 0,
+    "period": 0,
+    "version": "0"
+  },
+  "createOrder": {
+    "buyNumber": 4,
+    "buyType": 0,
+    "period": 0,
+    "version": "0",
+    "bankId": 601
+  },
+  "getOrderList": [
+    {
+      "orderId": 1,
+      "product": 2,
+      "version": 3,
+      "period": "2019年04月05日",
+      "date": "2019年04月06日",
+      "buyNum": 6,
+      "amount": 7
+    },
+    {
+      "orderId": 1,
+      "product": 2,
+      "version": 3,
+      "period": "2019年04月05日",
+      "date": "2019年04月06日",
+      "buyNum": 6,
+      "amount": 7
+    },
+    {
+      "orderId": 1,
+      "product": 2,
+      "version": 3,
+      "period": "2019年04月05日",
+      "date": "2019年04月06日",
+      "buyNum": 6,
+      "amount": 7
+    }
+  ],
+  "checkOrder": {}
+}
