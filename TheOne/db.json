@@ -32,11 +32,11 @@
     "version": "0"
   },
   "createOrder": {
-    "buyNumber": 4,
+    "buyNumber": 1,
     "buyType": 0,
     "period": 0,
     "version": "0",
-    "bankId": 601
+    "bankId": null
   },
   "getOrderList": [
     {
